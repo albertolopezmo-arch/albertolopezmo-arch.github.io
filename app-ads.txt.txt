@@ -1,4 +1,0 @@
-google.com, pub-6857666526122334, DIRECT, f08c47fec0942fa0
-tappx.com, xd0755fd6, DIRECT, 9f375a07da0318ec
-unity.com, 148896760, DIRECT, 96cabb5fbdde37a7
-facebook.com, 1195918703866141, RESELLER, c3e20eee3f780d68
